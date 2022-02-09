@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jhahspu
-- 👀 I’m interested in many things, but mostly coding
-- 🌱 I’m currently learning Go and PSQL (trying to move on from beginner)
-- 💞️ I’m looking to collaborate on Go projects
-- 📫 How to reach me: jhahspu@gmail.com
+### 👋 Hi, I’m @jhahspu.
+
+#### 👀 These days I mostly write Go code.
+
+I'm always open to collaborating on interesting projects. 📫 jhahspu@gmail.com
